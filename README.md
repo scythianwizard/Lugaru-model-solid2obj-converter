@@ -5,6 +5,8 @@ A Java based GUI conversion tool to convert .solid files from Lugaru game to .ob
 1. **Download the Jar from releases** (https://github.com/scythianwizard/Lugaru-model-solid2obj-converter/releases)
 2. Have a .solid file (or an obj if you want to convert to .solid) (You can get models from OSS Lugaru Source https://gitlab.com/osslugaru/lugaru/-/tree/master/Data/Models?ref_type=heads)
 3. Covert
+
+## Screenshot
 Here's a screenshot of what the GUI looks like
 ![](/lugaru-solid2obj-screenshot.png)
 
